@@ -2,6 +2,9 @@
 <div align="center"><img style="display: inline-block; height: 120px; width: 200px; " src="https://github.com/maximnightingale/GuZhiDaoXuanJi/blob/main/lib/国旗.jpg" /></div>
 <p align="center">来自江宁一群伙伴，结庐九龙山</p>
 
+## 封面
+<div align="center"><img src="https://github.com/maximnightingale/GuZhiDaoXuanJi/blob/main/lib/cover.png" /></div>
+
 ## pdf版链接
 <details>
   <summary>网盘</summary>
