@@ -1,5 +1,6 @@
-# 顾指导选集
-来自江宁一群伙伴，结庐九龙山
+<h1 align="center">顾指导选集</h1>
+<div align="center"><img style="display: inline-block; height: 120px; width: 200px; " src="https://github.com/maximnightingale/GuZhiDaoXuanJi/blob/main/lib/国旗.jpg" /></div>
+<p align="center">来自江宁一群伙伴，结庐九龙山</p>
 
 ## pdf版链接
 <details>
